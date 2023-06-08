@@ -1,0 +1,20 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_12_196" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="16" y="13" width="70" height="74">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M85.0001 13.3332H16.6668V86.6666H55.1145C49.0368 82.8289 45 76.0524 45 68.3331C45 56.367 54.7005 46.6665 66.6667 46.6665C74.386 46.6665 81.1624 50.7033 85.0001 56.781V13.3332ZM85.0001 79.8852C83.2738 82.6192 80.9528 84.9402 78.2188 86.6666H85.0001V79.8852Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_12_196)">
+<path d="M29.701 20H21.3335C19.6766 20 18.3335 21.3431 18.3335 23V77C18.3335 78.6568 19.6766 80 21.3334 80H78.6668C80.3236 80 81.6668 78.6568 81.6668 77V23C81.6668 21.3431 80.3236 20 78.6668 20H70.8335M35.8335 20H63.3335" stroke="#007CC2" stroke-width="2"/>
+<line x1="18.3335" y1="37.3333" x2="81.6668" y2="37.3333" stroke="#007CC2" stroke-width="2"/>
+<mask id="path-4-inside-1_12_196" fill="white">
+<rect x="28.3336" y="15" width="8.33334" height="11.6667" rx="1"/>
+</mask>
+<rect x="28.3336" y="15" width="8.33334" height="11.6667" rx="1" stroke="#007CC2" stroke-width="4" mask="url(#path-4-inside-1_12_196)"/>
+<mask id="path-5-inside-2_12_196" fill="white">
+<rect x="63.3335" y="15" width="8.33333" height="11.6667" rx="1"/>
+</mask>
+<rect x="63.3335" y="15" width="8.33333" height="11.6667" rx="1" stroke="#007CC2" stroke-width="4" mask="url(#path-5-inside-2_12_196)"/>
+</g>
+<path d="M88.3333 68.3334C88.3333 56.3672 78.6328 46.6667 66.6667 46.6667C54.7005 46.6667 45 56.3672 45 68.3334C45 80.2996 54.7005 90.0001 66.6667 90.0001C78.6328 90.0001 88.3333 80.2996 88.3333 68.3334Z" stroke="#007CC2" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60.5178 75.6512C62.2947 77.1903 65.0371 78.3515 67.0099 78.3515C70.172 78.3515 72.7325 76.1129 72.7325 73.3426C72.7325 70.5723 69.9901 69.215 67.0099 68.3336C63.9177 67.3682 61.2873 66.0949 61.2873 63.3246C61.2873 60.5543 63.8478 58.3156 67.0099 58.3156C69.1366 58.3156 70.9975 59.337 71.9909 60.8341" stroke="#007CC2" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M67.01 55.5875V81.0941" stroke="#007CC2" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
