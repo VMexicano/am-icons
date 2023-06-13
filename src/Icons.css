@@ -5,3 +5,26 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.iconImage {
+  position: relative;
+}
+
+.iconImage::after {
+  content: "";
+  display: block;
+}
+
+.iconImage:hover::after {
+  content: "Click to copy";
+  position: absolute;
+  bottom: 0rem;
+  background-color: black;
+  color: white;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  z-index: 1;
+  width: 100%;
+}
